@@ -4,6 +4,5 @@
 ![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/Screenshot%202025-08-06%20160934.png?raw=true)
 ![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/Screenshot%202025-08-06%20161024.png?raw=true)
 ![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/Screenshot%202025-08-06%20161055.png?raw=true)
-![Description of image](4.1 output sql.png)
-
+![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/4.1%20output%20sql.png)
 
