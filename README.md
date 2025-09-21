@@ -7,6 +7,6 @@
 ![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/4.1%20output%20sql.png)
 ![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/4.2%20sql%20output.png)
 ![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/4.3%20a%20output%20sql.png)
-![Description of image]()
-![Description of image]()
+![Description of image](https://github.com/AradhyaRattnBhardwaj/ADBMS/blob/main/4.3%20b%20sql%20output.png)
+
 
